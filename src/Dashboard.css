@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.dashpage {
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 90%;
+    height: 90%;
+    margin-top: 60px;
+    padding: 10px;
+    display: flex;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.functions {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.butt {
+    height: 400px;
+    width: 300px;
+    border-radius: 15px;
+    font-size: 40px;  
+    margin: 20px;
+    background-position: top;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px;
+}
+
+    .new {
+        background-image: url("new.png");
+        background-size: 90%;
+    }
+
+    .view {
+        background-image: url("view.png");
+        background-size: 100%;
+    }
+
+    .edit {
+        background-image: url("edit.png");
+        background-size: 90%;
+    }
+
+    .share {
+        background-image: url("share.jpg");
+        background-size: 100%;
+    }

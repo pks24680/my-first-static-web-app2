@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "RCM1",
+            "description": "This is the RCM1",
+            "category": "Optimisim"
+        },
+        {
+            "id": "2",
+            "title": "RCM2",
+            "description": "This is the RCM2",
+            "category": "Performance"
+        },
+        {
+            "id": "3",
+            "title": "RCM3",
+            "description": "This is the RCM3",
+            "category": "transparency"
+        }
+    ]
+}
